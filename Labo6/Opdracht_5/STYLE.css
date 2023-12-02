@@ -1,0 +1,14 @@
+body {
+    font-size: 10px;
+}
+.icon {
+    background-image: url("IMAGES/icon.png");
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 25px, 25px;
+    padding-left: 30px;
+}
+
+
+
+
